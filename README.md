@@ -74,4 +74,8 @@ Start the application:
 Copy code
 npm start
 Test the endpoints using Postman or any API client.
-    and all the screenshot in screenshot folder
+    
+    
+    
+    
+All the screenshot in screenshot folder
